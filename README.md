@@ -1,6 +1,6 @@
 # riqapp
 
-A new Flutter project.
+ Just a Flutter app for Pemrograman Mobile 2024 Middle Exam.
 
 ## Getting Started
 
