@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359003254643",
+    "project_id": "riqapp-341b4",
+    "storage_bucket": "riqapp-341b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359003254643:android:863e018ab54fc8ac3a9f06",
+        "android_client_info": {
+          "package_name": "com.group.riqapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0WTPP2YSejFb6is3_vqAh-wiNbkB2I5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
